@@ -50,7 +50,7 @@ camera-sales-agent/
 ### 1. 複製專案與建立虛擬環境
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/NikiYaSin/camera-sales-agent.git
 cd camera-sales-agent
 
 # 建立並啟動虛擬環境
