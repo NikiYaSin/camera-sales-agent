@@ -1,0 +1,122 @@
+[
+    {
+      "id": "cam_001",
+      "name": "Sony Alpha 7 IV (A74)",
+      "brand": "Sony",
+      "price": 64980,
+      "sensor": "Full-Frame",
+      "weight_g": 658,
+      "target_user": "全能型玩家、婚錄、商業攝影、進階愛好者",
+      "description": "3300萬像素全片幅單眼，具備強大的鳥眼/人眼對焦與 4K 60p 錄影能力，適合拍照與錄影雙修的創作者。"
+    },
+    {
+      "id": "cam_002",
+      "name": "Fujifilm X-T5",
+      "brand": "Fujifilm",
+      "price": 52900,
+      "sensor": "APS-C",
+      "weight_g": 557,
+      "target_user": "街拍、旅遊攝影、底片模擬愛好者、純拍照玩家",
+      "description": "4000萬像素 APS-C 機身，主打復古轉盤操作與獨家底片模擬色調，輕量化機身非常適合旅行與街頭人文拍攝。"
+    },
+    {
+      "id": "cam_003",
+      "name": "Sony ZV-E10 II",
+      "brand": "Sony",
+      "price": 29980,
+      "sensor": "APS-C",
+      "weight_g": 377,
+      "target_user": "新手、Vlogger、短影音創作者",
+      "description": "入門級可換鏡頭 Vlog 相機，具備一鍵去焦/開箱模式、4K 60p 錄影，超輕量化且性價比極高，非常適合預算有限的 Vlog 新手。"
+    },
+    {
+      "id": "cam_004",
+      "name": "Canon EOS R6 Mark II",
+      "brand": "Canon",
+      "price": 69900,
+      "sensor": "Full-Frame",
+      "weight_g": 670,
+      "target_user": "人像攝影師、運動連拍、婚禮紀錄",
+      "description": "2420萬像素全片幅，具備每秒 40 張超高速連拍與極強的人眼/車輛對焦系統，發色討喜，是人像與動態拍攝首選。"
+    },
+    {
+      "id": "cam_005",
+      "name": "Canon EOS R50",
+      "brand": "Canon",
+      "price": 19900,
+      "sensor": "APS-C",
+      "weight_g": 375,
+      "target_user": "學生、出國旅遊新手、預算有限者",
+      "description": "超輕巧入門微單眼，操作介面直覺友善，具備優秀的人眼對焦與 4K 無裁切錄影，價格親民。"
+    },
+    {
+      "id": "cam_006",
+      "name": "Fujifilm X100VI",
+      "brand": "Fujifilm",
+      "price": 51900,
+      "sensor": "APS-C",
+      "weight_g": 521,
+      "target_user": "隨身攜帶、文青街拍、生活紀錄",
+      "description": "不可換鏡頭的復古定焦隨身機，4000萬像素配備 23mm F2 鏡頭，內建防手震與最新底片模擬，極具質感。"
+    },
+    {
+      "id": "cam_007",
+      "name": "Nikon Z f",
+      "brand": "Nikon",
+      "price": 62980,
+      "sensor": "Full-Frame",
+      "weight_g": 710,
+      "target_user": "經典復古愛好者、全片幅進階玩家",
+      "description": "經典 FM2 造型復古全片幅相機，搭載強悍的 Z8/Z9 同級對焦晶片與 8 級防手震，兼具外觀與頂級性能。"
+    },
+    {
+      "id": "cam_008",
+      "name": "Nikon Z30",
+      "brand": "Nikon",
+      "price": 18900,
+      "sensor": "APS-C",
+      "weight_g": 405,
+      "target_user": "Vlog創作者、旅遊紀錄、入門攝影",
+      "description": "專為創作者設計的無觀景窗 APS-C 微單，握感極佳，配備側翻螢幕與錄影指示燈，適合日常生活紀錄。"
+    },
+    {
+      "id": "cam_009",
+      "name": "Sony Alpha 7C II (A7C2)",
+      "brand": "Sony",
+      "price": 59980,
+      "sensor": "Full-Frame",
+      "weight_g": 514,
+      "target_user": "追求輕量化的全片幅玩家、出國旅遊、隨身紀錄",
+      "description": "將 A74 的強大性能縮小至輕巧機身中，搭載 AI 處理單元，對焦極度強悍，是輕便全片幅的最佳選擇。"
+    },
+    {
+      "id": "cam_010",
+      "name": "Panasonic Lumix S5 II",
+      "brand": "Panasonic",
+      "price": 54900,
+      "sensor": "Full-Frame",
+      "weight_g": 740,
+      "target_user": "專業影片創作者、高CP值全片幅玩家",
+      "description": "首款搭載相位對焦的 Lumix 相機，具備無限時 4K 60p 錄影、主動散熱風扇與強大的防手震，影音創作極佳選擇。"
+    },
+    {
+      "id": "cam_011",
+      "name": "Ricoh GR IIIx",
+      "brand": "Ricoh",
+      "price": 33900,
+      "sensor": "APS-C",
+      "weight_g": 262,
+      "target_user": "極致口袋隨身、人文街拍",
+      "description": "能放進口袋的 APS-C 隨身機，搭載 40mm F2.8 等效鏡頭，開機極快，具備獨特的街拍色彩與單手操作設計。"
+    },
+    {
+      "id": "cam_012",
+      "name": "Sony ZV-E1",
+      "brand": "Sony",
+      "price": 64980,
+      "sensor": "Full-Frame",
+      "weight_g": 483,
+      "target_user": "頂級 Vlog 創作者、夜拍錄影需求者",
+      "description": "全世界最輕巧的全片幅 Vlog 機，採用與 FX3 同級的 1200萬低像素感光元件，超強暗光畫質與 4K 120p 錄影。"
+    }
+  ]
