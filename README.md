@@ -41,3 +41,48 @@ camera-sales-agent/
 ├── requirements.txt       # 專案套件依賴清單
 ├── .env.example           # 環境變數設定範本
 └── README.md              # 專案說明文件
+```
+
+---
+
+## 🚀 快速啟動指南
+
+### 1. 複製專案與建立虛擬環境
+
+```bash
+git clone <YOUR_GITHUB_REPOSITORY_URL>
+cd camera-sales-agent
+
+# 建立並啟動虛擬環境
+python3 -m venv .venv
+source .venv/bin/activate  # macOS / Linux
+# .venv\Scripts\activate   # Windows
+```
+
+### 2. 安裝套件依賴
+
+```bash
+pip install -r requirements.txt
+```
+
+### 3. 設定環境變數
+
+在專案根目錄下建立 .env 檔案並填入 OpenAI API Key：
+
+```env
+OPENAI_API_KEY=your_openai_api_key_here
+```
+
+### 4. 建立向量資料庫 (Ingestion)
+
+```bash
+python src/ingest.py
+```
+
+### 5. 啟動 Web UI 服務
+
+```bash
+python app.py
+```
+
+啟動後請開啟瀏覽器訪問：http://127.0.0.1:7860
